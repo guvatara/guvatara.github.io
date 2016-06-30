@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Star Ocean: Integrity and Faithlessness
+title: Star Ocean - Integrity and Faithlessness
 ---
 
 ![Star Ocean]({{ site.baseurl }}/images/Star-Ocean-Integrity-and-Faithlessness-Wallpapers-HD.jpg)
