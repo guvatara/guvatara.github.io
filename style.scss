@@ -150,8 +150,13 @@ img {
 // .masthead
 //
 
+.master-body {
+  background-color: silver;
+}
+
 .wrapper-masthead {
   margin-bottom: 50px;
+  background-color: ghostwhite;
 }
 
 .masthead {
@@ -242,8 +247,10 @@ nav {
 //
 
 .posts > .post {
-  padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  border: 1px solid $lightGray;
+  background-color: #fff;
+  padding: 1em 0.5em 2em;
+  margin: 0.5em 0 1em;
 }
 
 .posts > .post:last-child {
