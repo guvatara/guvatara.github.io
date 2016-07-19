@@ -249,6 +249,14 @@ hr.small {
     font-size: 36px;
   }
 }
+
+.preview-img {
+  text-align: center;
+}
+.preview-img img {
+  max-width: 100%;
+}
+
 .section-heading {
   font-size: 36px;
   margin-top: 60px;

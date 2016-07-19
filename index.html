@@ -14,8 +14,8 @@ description: "Немного обо всем, что меня задело"
         </h3>
         {% endif %}
         {% if post.header-img %}
-            <div class="post-img">
-                {{ post.header-img }}
+            <div class="preview-img">
+                <img src="/{{ post.header-img }}"/>
             </div>
         {% endif %}
     </a>
