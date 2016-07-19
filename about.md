@@ -2,6 +2,8 @@
 layout: page
 title: Обо мне
 permalink: /about/
+description: "Немного инфы обо мне"
+header-img: "img/about-bg.jpg"
 ---
 
 Немного инфы обо мне
