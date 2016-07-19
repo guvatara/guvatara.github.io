@@ -8,16 +8,17 @@ description: "Немного обо всем, что меня задело"
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">            {{ post.title }}
         </h2>
+        {% if post.header-img %}
+        <div class="preview-img">
+            <img src="/{{ post.header-img }}"/>
+        </div>
+        {% endif %}
         {% if post.subtitle %}
         <h3 class="post-subtitle">
             {{ post.subtitle }}
         </h3>
         {% endif %}
-        {% if post.header-img %}
-            <div class="preview-img">
-                <img src="/{{ post.header-img }}"/>
-            </div>
-        {% endif %}
+
     </a>
     <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
 </div>
