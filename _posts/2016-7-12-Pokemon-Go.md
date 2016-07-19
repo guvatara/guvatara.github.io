@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Pokemon Go - собери их всех!
+date:       2016-07-12 12:00:00
+author:     "Guvatara"
+header-img: "images/f3ede5280d2cec6b2e8a71efd07bf845.jpg"
 ---
 
 ![Pokemon Go]({{ site.baseurl }}/images/f3ede5280d2cec6b2e8a71efd07bf845.jpg)
