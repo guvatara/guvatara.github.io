@@ -1,6 +1,6 @@
 ---
 layout: page
-description: "A Clean Blog Theme by Start Bootstrap"
+description: "Немного обо всем, что меня задело"
 ---
 
 {% for post in paginator.posts %}
@@ -12,6 +12,11 @@ description: "A Clean Blog Theme by Start Bootstrap"
         <h3 class="post-subtitle">
             {{ post.subtitle }}
         </h3>
+        {% endif %}
+        {% if post.header-img %}
+            <div class="post-img">
+                {{ post.header-img }}
+            </div>
         {% endif %}
     </a>
     <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
