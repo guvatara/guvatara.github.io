@@ -11,6 +11,10 @@ github_username:  guvatara
 facebook_username:  guvatara
 email_username:  guvatara@gmail.com
 
+# Enter your Disqus shortname (not your username) to enable commenting on posts
+# You can find your shortname on the Settings page of your Disqus account
+disqus: guvataragithub
+
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
 google_tracking_id: UA-75473648-1
