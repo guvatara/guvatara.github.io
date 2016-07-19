@@ -3,7 +3,7 @@ layout: default
 ---
 
 <section class="posts">
-  {% for post in site.posts %}
+  {% for post in paginator.posts %}
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
@@ -11,7 +11,7 @@ layout: default
       <div class="entry">
         {{ post.excerpt }}
       </div>
-
+      <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Почитать...</a>
     </article>
   {% endfor %}
