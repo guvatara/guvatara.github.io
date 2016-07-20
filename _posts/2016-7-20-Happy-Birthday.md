@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Днюха к нам приходит
+layout:     post
+title:      "Днюха к нам приходит"
 subtitle:   "Будут пляски до утра"
 date:       2016-07-20 13:14:00
 author:     "Guvatara"
