@@ -2,7 +2,7 @@
 layout:     post
 title:      "Днюха к нам приходит"
 subtitle:   "Будут пляски до утра"
-date:       2016-07-20 13:14:00
+date:       2016-07-20 12:00:00
 author:     "Guvatara"
 header-img: "images/surprise-happy-birthday-gifts-5.jpg"
 ---
