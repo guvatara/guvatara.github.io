@@ -32,8 +32,11 @@
     {% endif %}
 
     {% if page.title %}
-    <meta property="og:title" content="{{ page.title }}" />
-    <meta name="twitter:title" content="{{ page.title }}" />
+    <meta property="og:title" content="{{ page.title }} - {{ site.title }}" />
+    <meta name="twitter:title" content="{{ page.title }} - {{ site.title }}" />
+    {% else %}
+    <meta property="og:title" content="{{ site.title }}" />
+    <meta name="twitter:title" content="{{ site.title }}" />
     {% endif %}
 
     {% if page.header-img %}
