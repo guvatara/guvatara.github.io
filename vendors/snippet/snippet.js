@@ -3,14 +3,26 @@
  */
 
 $(document).ready(function(){
-	$("pre.htmlCode").snippet("html",{style:"acid"});
-	// Ищем тэги <pre> с классом "htmlCode"
-	// и подключаем к этим элементам стиль acid и обработку html
-	$("pre.styles").snippet("css",{style:"acid"});
-	// Ищем тэги <pre> с классом "styles"
-	// и подключаем к этим элементам стиль acid и обработку для CSS кода
+	
+	$("pre.html").snippet("html",{style:"acid"});
+	// Finds <pre> elements with the class "htmlCode"
+	// and snippet highlights the HTML code within.
+	
+	$("pre.css").snippet("css",{style:"acid"});
+	// Finds <pre> elements with the class "styles"
+	// and snippet highlights the CSS code within
+	// using the "greenlcd" styling.
+	
+	$("pre.php").snippet("php",{style:"acid"});
+	// Finds <pre> elements with the class "styles"
+	// and snippet highlights the CSS code within
+	// using the "greenlcd" styling.
 	
 	$("pre.js").snippet("javascript",{style:"acid"});
-	// Ищем тэги <pre> с классом "js"
-	// и подключаем к этим элементам стиль acid и обработку для
+	// Finds <pre> elements with the class "js"
+	// and snippet highlights the JAVASCRIPT code within
+	// using a random style from the selection of 39
+	// with a transparent background
+	// without showing line numbers.
+	
 });
