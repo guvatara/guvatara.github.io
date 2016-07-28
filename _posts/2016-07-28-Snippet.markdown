@@ -23,7 +23,6 @@ header-img: "images/a55d06d821cfa291ec209c53da744656.gif"
 
 <pre>
 <code class="css">
-
 .videoWrapper {
   position:relative;
   padding-bottom:56.25%;
@@ -31,7 +30,6 @@ header-img: "images/a55d06d821cfa291ec209c53da744656.gif"
   height:0;
   overflow:hidden;
 }
-
 .videoWrapper iframe, .videoWrapper object, .videoWrapper embed {
   position:absolute;
   top:0;
@@ -47,7 +45,6 @@ header-img: "images/a55d06d821cfa291ec209c53da744656.gif"
 
 <pre>
 <code class="js">
-
 /*When clicking on Full hide fail/success boxes */
 $('#name').focus(function() {
     $('#success').html('');
