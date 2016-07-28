@@ -12,18 +12,14 @@ header-img: "images/a55d06d821cfa291ec209c53da744656.gif"
 <strong>HTML</strong>
 
 <pre class="htmlCode">
-
 <p>Что то сегодня на меня напала хворь лютая. С утра как то неспокойно в моей животе.</p>
-
 <p>Поэтому решил полденька поголодать, а потом покушать чего нибудь не злобного к желудку.</p>
-
 <p>Хороший способ поэкономить на продуктах.</p>
-
 </pre>
 
 <strong>CSS</strong>
 
-<pre class="css">
+<pre class="styles">
 
 .videoWrapper {
   position:relative;
