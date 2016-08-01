@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Папа Блог"
-subtitle:   "Когда без кода никуда"
+subtitle:   "Папа может быть кем угодно"
 date:       2016-08-01 12:00:00
 author:     "Guvatara"
 header-img: "images/871-sovmestnyj-dosug-papa-i-rebenok.jpg"
