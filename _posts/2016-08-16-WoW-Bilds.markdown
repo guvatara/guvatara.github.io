@@ -1,0 +1,32 @@
+---
+layout:     post
+title:      "World of Warcraft билды"
+subtitle:   "Полезно всегда иметь под рукой список интересных билдов"
+date:       2016-08-16 12:00:00
+author:     "Guvatara"
+header-img: "images/wow-bg.jpg"
+---
+
+Поиграв эти дни в WoW (World of Warcraft) я понял, что где то я явно что-то делаю н так, как оно нужно.
+
+Поэтому сделаю подборку билдов для разных классов, чтобы мне было проще.
+
+<h2>Маг</h2>
+
+<a href="http://eu.battle.net/wow/ru/tool/talent-calculator#eba!0011011">Морозный маг</a>
+
+<a href="http://eu.battle.net/wow/ru/tool/talent-calculator#eaa!2011021">Маг-Чародей</a>
+
+<a href="http://eu.battle.net/wow/ru/tool/talent-calculator#eZa!0111010">Огненый маг</a>
+
+<h2>Рыцарь Смерти</h2>
+
+<a href="http://eu.battle.net/wow/ru/tool/talent-calculator#dZa!2201210">Морозный Рыцарь</a>
+
+<a href="http://eu.battle.net/wow/ru/tool/talent-calculator#dba!2120000">Нечистивый Рыцарь</a>
+
+<a href="http://eu.battle.net/wow/ru/tool/talent-calculator#daa!1001022">Кровавый Рыцарь</a>
+
+<h2>Охотник на Демонов</h2>
+
+<a href="http://eu.battle.net/wow/ru/tool/talent-calculator#gaa!0021002">Тестовый билдец</a>
