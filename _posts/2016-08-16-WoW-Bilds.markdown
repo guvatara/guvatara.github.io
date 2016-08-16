@@ -30,3 +30,11 @@ header-img: "images/wow-bg.jpg"
 <h2>Охотник на Демонов</h2>
 
 <a href="http://eu.battle.net/wow/ru/tool/talent-calculator#gaa!0021002">Тестовый билдец</a>
+
+<h3>Про аддоны</h3>
+
+<a href="http://eu.battle.net/forums/ru/wow/topic/9751515286">О полезных аддонах и зачем они нужны</a>
+
+<h3>Фамильные вещи и прочая муть</h3>
+
+<a href="http://eu.battle.net/forums/ru/wow/topic/5299070954">Фамильные вещи. Все, что вы хотели о них знать</a>
