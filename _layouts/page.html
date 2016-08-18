@@ -29,11 +29,11 @@ layout: default
 				<strong>Поделись этим с друзьями</strong><br>
 				<div class="ya-share2" data-services="vkontakte,facebook,odnoklassniki,moimir,gplus,twitter,lj,tumblr,viber,whatsapp" data-counter="" data-limit="6"></div>
 			</div>
-
+			{% if page.title %}{{ page.title }}
 			<hr>
 
 			{% include disqus.html %}
-
+			{% endif %}
 			<hr>
 		</div>
 	</div>
