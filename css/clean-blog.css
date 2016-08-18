@@ -384,6 +384,9 @@ form .row:first-child .floating-label-form-group {
   margin: 0 0 30px;
   padding: 20px;
 }
+.aside-block__twitter {
+  max-height: 450px;
+}
 ::-moz-selection {
   color: white;
   text-shadow: none;
