@@ -32,4 +32,8 @@ rating: 90
 </p><p>Я рекомендую это дополнение к ознакомлению, но я не уверен, что оно даст реальный толчок к возвращению надолго игроков в мир Азерота. Уж очень сильно игра стара и изуродована, чтобы реально вызывать желание там оставаться.
 </p>
 
+<div class="videoWrapper">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/wKT8M8u2ATk" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ![World of Warcraft Legion]({{ site.baseurl }}/images/wowLegionReview.png)
