@@ -388,28 +388,28 @@ form .row:first-child .floating-label-form-group {
   max-height: 600px;
   overflow-y: scroll;
 }
-.video-container {
+.videoWrapper {
   position: relative;
   padding-bottom: 56.25%;
   padding-top: 30px;
   height: 0;
   overflow: hidden;
 }
-.video-container iframe {
+.videoWrapper iframe {
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
 }
-.video-container object {
+.videoWrapper object {
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
 }
-.video-container embed {
+.videoWrapper embed {
   position: absolute;
   top: 0;
   left: 0;
