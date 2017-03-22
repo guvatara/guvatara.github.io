@@ -13,6 +13,8 @@ header-img: "images/dungeons-dragons-movie-reboot.jpg"
 
 ![Dungeons & Dragons]({{ site.baseurl }}/images/ab67b77b65d0d2e03f752ad776a2475a.jpg)
 
+![Dungeons & Dragons]({{ site.baseurl }}/images/e45a3a5d-c3bf-491e-83a4-749372e4be56.jpg)
+
 <p></p>
 
 
